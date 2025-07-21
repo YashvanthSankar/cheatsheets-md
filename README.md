@@ -1,1 +1,1 @@
-### just refer this repo whenever you feel like re-reading some concepts
+### just refer this repo whenever you feel like reading core concepts in web development
