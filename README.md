@@ -1,9 +1,10 @@
 ## just refer this repo whenever you feel like reading core concepts in web development
 
-| Topic                | Guide Link                              |
-|----------------------|-----------------------------------------|
+| Topic                | Guide Link                                          |
+|----------------------|-----------------------------------------------------|
 | HTML                 | [HTML](cheatsheets/html.md)                         | 
-| CSS                  | [CSS](cheatsheets/css.md)
+| CSS                  | [CSS](cheatsheets/css.md)                           |
+| JavaScript           | [JavaScript](cheatsheets/javascript.md)             |
 | React.js             | [React.js](cheatsheets/reactjs.md)                  |
 | React Context        | [React Context](cheatsheets/react-context.md)       |
 
