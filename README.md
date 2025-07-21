@@ -2,5 +2,6 @@
 
 | Topic                | Guide Link                              |
 |----------------------|-----------------------------------------|
-| React.js             | [React.js](reactjs_complete_guide.md)   |
-| React Context        | [React Context](react_context_guide.md) |       |
+| HTML                 | [HTML](html.md)                         | 
+| React.js             | [React.js](reactjs.md)                  |
+| React Context        | [React Context](react-context.md)       |
