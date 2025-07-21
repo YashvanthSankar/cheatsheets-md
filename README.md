@@ -1,4 +1,4 @@
-## your ultimate cheatsheet for learning, referencing, and mastering the web!
+## your ultimate cheatsheets for learning, referencing, and mastering the web!
 
 | Topic                | Guide Link                                          |
 |----------------------|-----------------------------------------------------|
