@@ -1,4 +1,4 @@
-## just refer this repo whenever you feel like reading core concepts in web development
+## your ultimate cheatsheet for learning, referencing, and mastering the web!
 
 | Topic                | Guide Link                                          |
 |----------------------|-----------------------------------------------------|
