@@ -2,7 +2,7 @@
 
 | Topic                | Guide Link                                          |
 |----------------------|-----------------------------------------------------|
-| Web Development 101: Everything Beginners Need to Know                | [webdev101](web-dev-101.md)                         | 
+| Web Development 101                | [webdev101](web-dev-101.md)                         | 
 | HTML                 | [HTML](cheatsheets/html.md)                         | 
 | CSS                  | [CSS](cheatsheets/css.md)                           |
 | JavaScript           | [JavaScript](cheatsheets/javascript.md)             |
