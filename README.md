@@ -2,10 +2,10 @@
 
 | Topic                | Guide Link                              |
 |----------------------|-----------------------------------------|
-| HTML                 | [HTML](html.md)                         | 
-| CSS                  | [CSS](css.md)
-| React.js             | [React.js](reactjs.md)                  |
-| React Context        | [React Context](react-context.md)       |
+| HTML                 | [HTML](cheatsheets/html.md)                         | 
+| CSS                  | [CSS](cheatsheets/css.md)
+| React.js             | [React.js](cheatsheets/reactjs.md)                  |
+| React Context        | [React Context](cheatsheets/react-context.md)       |
 
 ## contributions
 
