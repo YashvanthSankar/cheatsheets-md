@@ -1,4 +1,4 @@
-# HTML Course: Learn the Basics of Web Development
+# HTML Cheatsheet
 
 ---
 
