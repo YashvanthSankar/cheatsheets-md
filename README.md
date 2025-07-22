@@ -10,7 +10,8 @@
 | React.js             | [React.js](cheatsheets/reactjs.md)                  |
 | React Router         | [React Router](cheatsheets/react-router.md)         |
 | React Context        | [React Context](cheatsheets/react-context.md)       |
-| CLI (Command Line Interface)       | [CLI](cheatsheets/cli.md)       |
+| CLI (Command Line Interface)       | [CLI](cheatsheets/cli.md)             |
+| Markdown             | [Markdown](cheatsheets/markdown.md)                 |
 
 
 ## contributions
