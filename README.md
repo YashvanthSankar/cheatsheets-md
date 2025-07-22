@@ -8,6 +8,7 @@
 | JavaScript           | [JavaScript](cheatsheets/javascript.md)             |
 | Git                  | [Git](cheatsheets/git.md)                           |
 | React.js             | [React.js](cheatsheets/reactjs.md)                  |
+| React Router         | [React Router](cheatsheets/react-router.md)         |
 | React Context        | [React Context](cheatsheets/react-context.md)       |
 
 
