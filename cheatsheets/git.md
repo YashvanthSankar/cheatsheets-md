@@ -1,4 +1,4 @@
-# 📝 Git Cheatsheet
+# Git Cheatsheet
 
 ---
 
