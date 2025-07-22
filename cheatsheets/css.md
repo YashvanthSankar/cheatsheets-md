@@ -1,5 +1,7 @@
 # CSS
 
+---
+
 ## 1. CSS Selectors
 
 | Selector                | Example            | Description                                  |
