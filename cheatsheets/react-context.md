@@ -1,5 +1,7 @@
 # React Context
 
+---
+
 ## What is React Context?
 
 - **Context** lets you share data (state) across many components, without having to pass props down manually at every level.
