@@ -1,4 +1,4 @@
-# React Context – A Beginner’s Guide
+# React Context
 
 ## What is React Context?
 
