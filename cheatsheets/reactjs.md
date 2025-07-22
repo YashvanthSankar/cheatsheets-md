@@ -1,5 +1,7 @@
 # React.js
 
+---
+
 ## 1. What is React?
 
 - **React** is a JavaScript library for building user interfaces (UIs).
