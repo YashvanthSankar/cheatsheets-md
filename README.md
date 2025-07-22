@@ -6,6 +6,7 @@
 | HTML                 | [HTML](cheatsheets/html.md)                         | 
 | CSS                  | [CSS](cheatsheets/css.md)                           |
 | JavaScript           | [JavaScript](cheatsheets/javascript.md)             |
+| Git                  | [Git](cheatsheets/git.md)                           |
 | React.js             | [React.js](cheatsheets/reactjs.md)                  |
 | React Context        | [React Context](cheatsheets/react-context.md)       |
 
