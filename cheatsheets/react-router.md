@@ -1,4 +1,4 @@
-# React Router Cheatsheet
+# React Router
 
 ---
 
