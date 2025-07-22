@@ -95,11 +95,11 @@ _italic_ or _italic_
 **Syntax:**
 
 ```markdown
-![Alt Text](https://example.com/image.png)
+![Alt Text]([https://example.com/image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqjzzLJ_ntPkcPTVeiOFx4ZLhcQLSHr-2hdg&s))
 ```
 
 **Preview:**  
-![Alt Text](https://example.com/image.png)
+![Alt Text]([https://example.com/image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqjzzLJ_ntPkcPTVeiOFx4ZLhcQLSHr-2hdg&s))
 
 ---
 
