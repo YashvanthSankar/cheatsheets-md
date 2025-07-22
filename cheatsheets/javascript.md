@@ -1,4 +1,4 @@
-# Complete JavaScript Cheatsheet 
+# JavaScript 
 
 ---
 
