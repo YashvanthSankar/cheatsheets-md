@@ -1,4 +1,4 @@
-# HTML Cheatsheet
+# HTML
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-## Lesson 1: Introduction to HTML
+## 1: Introduction to HTML
 
 **HTML** stands for *HyperText Markup Language*. It is the standard language for creating web pages and web applications.
 
@@ -35,7 +35,7 @@ Write a simple HTML tag that displays your name.
 
 ---
 
-## Lesson 2: HTML Document Structure
+## 2: HTML Document Structure
 
 A basic HTML document looks like this:
 
@@ -63,7 +63,7 @@ Create an HTML file with your own title and a welcome message.
 
 ---
 
-## Lesson 3: Text Formatting Tags
+## 3: Text Formatting Tags
 
 Common tags for text:
 
@@ -86,7 +86,7 @@ Write a paragraph using bold and italic text, and add a heading above it.
 
 ---
 
-## Lesson 4: Links and Images
+## 4: Links and Images
 
 **Links:**
 ```html
@@ -107,7 +107,7 @@ Add a link to your favorite website and display an image with a descriptive alt 
 
 ---
 
-## Lesson 5: Lists (Ordered & Unordered)
+## 5: Lists (Ordered & Unordered)
 
 **Unordered List:**
 ```html
@@ -160,7 +160,7 @@ Make a table with 2 columns: "Country" and "Capital", and add 3 rows.
 
 ---
 
-## Lesson 7: Forms and Inputs
+## 7: Forms and Inputs
 
 **Example:**
 ```html
@@ -184,7 +184,7 @@ Create a form with fields for Name, Age, and a Submit button.
 
 ---
 
-## Lesson 8: Semantic HTML
+## 8: Semantic HTML
 
 Semantic tags describe the meaning of content:
 
@@ -220,7 +220,7 @@ Structure a simple web page using at least three semantic tags.
 
 ---
 
-## Lesson 9: Multimedia: Audio and Video
+## 9: Multimedia: Audio and Video
 
 **Audio:**
 ```html
@@ -243,7 +243,7 @@ Embed an audio file and a video file in your web page.
 
 ---
 
-## Lesson 10: Best Practices & Accessibility
+## 10: Best Practices & Accessibility
 
 - Always use `alt` for images.
 - Use semantic tags.
