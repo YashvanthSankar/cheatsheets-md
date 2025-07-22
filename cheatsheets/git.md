@@ -8,8 +8,32 @@ Git is a distributed version control system.
 It tracks changes in your code and helps you collaborate with others.
 
 ---
+## 3. Basic Git Terms (for Beginners)
 
-## 2. Basic Workflow
+| Term           | Meaning                                                                                  |
+|----------------|------------------------------------------------------------------------------------------|
+| Repository (repo) | The project folder tracked by Git. Can be local (your computer) or remote (GitHub).   |
+| Commit         | A snapshot of your changes, with a message describing what changed.                      |
+| Branch         | A separate line of development for features or fixes.                                    |
+| Merge          | Combining changes from one branch into another.                                          |
+| Clone          | Copying a remote repository onto your computer.                                          |
+| Push           | Uploading your commits from local to remote (e.g. GitHub).                               |
+| Pull           | Downloading new commits from remote to local.                                            |
+| Fork           | Creating your own copy of someone else’s repo (on GitHub).                               |
+| Pull Request (PR) | Asking to merge your changes into another repo; often used for code review.           |
+| Staging Area   | Where files go after `git add`—ready to be committed.                                    |
+| .gitignore     | File listing things Git should NOT track (like temp files).                              |
+| Conflict       | When Git can’t automatically combine changes—needs manual fixing.                        |
+| Remote         | A version of the repo hosted on a server (like GitHub).                                  |
+| Origin         | The default name for your main remote repo.                                              |
+| Tag            | A label for specific commits, often used for releases (like `v1.0`).                     |
+| Diff           | Shows differences between files, commits, or branches.                                   |
+| Stash          | Temporarily saves changes you’re not ready to commit.                                    |
+| Checkout/Switch| Change which branch or commit you’re working on.                                         |
+
+---
+
+## 3. Basic Workflow
 
 ```bash
 # Set your name and email (first time only)
@@ -61,7 +85,7 @@ git branch -d new-feature
 
 ---
 
-## 3. Remote Repositories
+## 4. Remote Repositories
 
 - Add a remote:
   ```bash
@@ -78,7 +102,7 @@ git branch -d new-feature
 
 ---
 
-## 4. Undoing Changes
+## 5. Undoing Changes
 
 | Task                   | Command                        | Explanation             |
 |------------------------|-------------------------------|-------------------------|
@@ -89,7 +113,7 @@ git branch -d new-feature
 
 ---
 
-## 5. Stashing (Temporary Changes)
+## 6. Stashing (Temporary Changes)
 
 ```bash
 git stash           # Save changes for later
@@ -99,7 +123,7 @@ git stash list      # Show stashes
 
 ---
 
-## 6. Tagging
+## 7. Tagging
 
 ```bash
 git tag v1.0        # Create tag
@@ -109,7 +133,7 @@ git push origin v1.0   # Push tag
 
 ---
 
-## 7. Viewing Differences
+## 8. Viewing Differences
 
 ```bash
 git diff            # See unstaged changes
@@ -119,7 +143,7 @@ git diff branchA..branchB # Compare branches
 
 ---
 
-## 8. Ignoring Files
+## 9. Ignoring Files
 
 - Create a `.gitignore` file:
   ```
@@ -130,7 +154,7 @@ git diff branchA..branchB # Compare branches
 
 ---
 
-## 9. Useful Shortcuts
+## 10. Useful Shortcuts
 
 | Shortcut            | Command                    | Description          |
 |---------------------|---------------------------|----------------------|
@@ -141,7 +165,7 @@ git diff branchA..branchB # Compare branches
 
 ---
 
-## 10. Help
+## 11. Help
 
 ```bash
 git help <command>
@@ -151,7 +175,7 @@ git help log
 
 ---
 
-## 11. Common GitHub Tasks
+## 12. Common GitHub Tasks
 
 - **Fork:** Copy someone’s repo to your account.
 - **Pull Request:** Propose your changes to a project.
@@ -160,7 +184,7 @@ git help log
 
 ---
 
-## 12. Tips
+## 13. Tips
 
 - Commit often with meaningful messages.
 - Pull before you push, to avoid conflicts.
@@ -168,7 +192,7 @@ git help log
 
 ---
 
-## 13. Resources
+## 14. Resources
 
 - [Git Official Docs](https://git-scm.com/doc)
 - [GitHub Learning Lab](https://lab.github.com/)
