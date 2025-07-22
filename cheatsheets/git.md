@@ -8,7 +8,7 @@ Git is a distributed version control system.
 It tracks changes in your code and helps you collaborate with others.
 
 ---
-## 3. Basic Git Terms (for Beginners)
+## 2. Basic Git Terms (for Beginners)
 
 | Term           | Meaning                                                                                  |
 |----------------|------------------------------------------------------------------------------------------|
