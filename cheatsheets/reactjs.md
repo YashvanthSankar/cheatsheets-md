@@ -1,4 +1,4 @@
-# Complete React.js Guide
+# React.js
 
 ## 1. What is React?
 
