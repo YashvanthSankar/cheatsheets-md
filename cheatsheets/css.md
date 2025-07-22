@@ -1,4 +1,4 @@
-# CSS Cheatsheet
+# CSS
 
 ## 1. CSS Selectors
 
