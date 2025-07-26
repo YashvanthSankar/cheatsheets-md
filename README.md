@@ -8,6 +8,7 @@
 | JavaScript           | [JavaScript](cheatsheets/javascript.md)             |
 | Git                  | [Git](cheatsheets/git.md)                           |
 | React.js             | [React.js](cheatsheets/reactjs.md)                  |
+| Angular.js           | [Angular.js](cheatsheets/angular.md)                  |
 | React Router         | [React Router](cheatsheets/react-router.md)         |
 | React Context        | [React Context](cheatsheets/react-context.md)       |
 | CLI (Command Line Interface)       | [CLI](cheatsheets/cli.md)             |
