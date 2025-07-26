@@ -12,6 +12,7 @@
 | React Context        | [React Context](cheatsheets/react-context.md)       |
 | CLI (Command Line Interface)       | [CLI](cheatsheets/cli.md)             |
 | Markdown             | [Markdown](cheatsheets/markdown.md)                 |
+| npm                  | [npm](cheatsheets/npm.md)                           |
 
 
 ## contributions
