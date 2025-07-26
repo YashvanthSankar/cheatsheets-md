@@ -13,6 +13,7 @@
 | CLI (Command Line Interface)       | [CLI](cheatsheets/cli.md)             |
 | Markdown             | [Markdown](cheatsheets/markdown.md)                 |
 | npm                  | [npm](cheatsheets/npm.md)                           |
+| yarn                 | [yarn](cheatsheets/yarn.md)                         |
 
 
 ## contributions
