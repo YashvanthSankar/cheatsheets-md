@@ -12,6 +12,7 @@
 | Angular.js           | [Angular.js](cheatsheets/angular.md)                |
 | React Router         | [React Router](cheatsheets/react-router.md)         |
 | React Context        | [React Context](cheatsheets/react-context.md)       |
+| Next.js              | [Next.js](cheatsheets/nextjs.md)                    |
 | CLI (Command Line Interface)       | [CLI](cheatsheets/cli.md)             |
 | Markdown             | [Markdown](cheatsheets/markdown.md)                 |
 | npm                  | [npm](cheatsheets/npm.md)                           |
